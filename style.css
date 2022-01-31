@@ -1,0 +1,8 @@
+table, th, td{
+    border: 2px solid rgb(24, 24, 24);
+    width: 50%;
+    background-color: coral;
+}
+td{
+    width: 30%;
+}
