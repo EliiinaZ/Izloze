@@ -1,12 +1,16 @@
-table, th, td {
-    border: 1px solid black;
+  table, th, td {
+    border: 2px solid rgb(182, 124, 124);
+    background-color: rgb(199, 243, 199);
   }
   table {
-    width: 100%;
+    width: 40%;
   }
   th {
     height: 70px;
   }
   td {
     text-align: center;
+  }
+  thead{
+      font-weight: "Bold";
   }
